@@ -12,7 +12,7 @@
  
  🌱 I’m currently learning **C#, .NET, AWS**
 
-💬 Ask me about **Node.js, Python, future project plans... or anything [here](https://github.com/mikeklimanek/mikeklimanek/issues)**
+💬 Contact and most recent project links:
 
 
  </div>
