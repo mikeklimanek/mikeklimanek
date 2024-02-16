@@ -39,7 +39,7 @@
     <img src="https://skillicons.dev/icons?i=stackoverflow,bootstrap,nextjs,flask,fastapi,discord,lua,gcp" /><br>
 </div>
 
-  <br/><br/><br/>
+  <br/>
 </div>
 
 <hr/>
@@ -51,7 +51,6 @@
 </div>
 <h5 align="center">* If you only see empty squares, please refresh the page </h5>
 
-<br/><br/>
 
 <hr/>
 
