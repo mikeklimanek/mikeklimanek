@@ -1,7 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=mikeklimanek.mikeklimanek" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello!+👋;+I'm+Mike+Klimanek!;" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Oswald&size=40&duration=2000&pause=1000&color=F70707&background=FFF9F900&multiline=true&random=false&width=500&height=120&lines=Hello!+%F0%9F%91%8B;I'm+Michael+Klimanek!;" />
 </h1>
 
 <h3 align="center">A passionate self taught developer</h3>
