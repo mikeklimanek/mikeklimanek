@@ -37,8 +37,8 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=linux,nodejs,python,js,ts,express,mysql,go" />
-    <img src="https://skillicons.dev/icons?i=html,css,bash,vscode,bootstrap,github,git,docker,githubactions" />
-    <img src="https://skillicons.dev/icons?i=stackoverflow,nextjs,flask,fastapi,discord,lua,gcp" /><br>
+    <img src="https://skillicons.dev/icons?i=html,css,bash,vscode,github,git,docker,githubactions" />
+    <img src="https://skillicons.dev/icons?i=stackoverflow,bootstrap,nextjs,flask,fastapi,discord,lua,gcp" /><br>
 </div>
 
 <br/>
