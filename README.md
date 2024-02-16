@@ -41,8 +41,8 @@
     <img src="https://skillicons.dev/icons?i=stackoverflow,bootstrap,nextjs,flask,fastapi,discord,lua,gcp" /><br>
 </div>
 
-<br/>
-<hr/>
+<!-- <br/>
+<hr/> -->
 
 <!-- <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
