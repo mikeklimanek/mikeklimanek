@@ -1,5 +1,3 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=mikeklimanek.mikeklimanek" />
-
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com?font=Oswald&size=40&duration=2000&pause=1000&color=F70707&background=FFF9F900&random=false&width=330&height=60&lines=Hello!+%F0%9F%91%8B;I'm+Michael+Klimanek!;" />
 </h1>
@@ -41,14 +39,6 @@
     <img src="https://skillicons.dev/icons?i=stackoverflow,bootstrap,nextjs,flask,fastapi,discord,lua,gcp" /><br>
 </div>
 
-<!-- <br/>
-<hr/> -->
-
-<!-- <div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-  <!-- <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/mikeklimanek/mikeklimanek/output/github-contribution-grid-snake.svg" />
-   -->
   <br/><br/><br/>
 </div>
 
