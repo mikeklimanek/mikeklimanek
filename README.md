@@ -1,16 +1,16 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Oswald&size=40&duration=2000&pause=1000&color=F70707&background=FFF9F900&random=false&width=330&height=60&lines=Hello!+%F0%9F%91%8B;I'm+Michael+Klimanek!;" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Oswald&size=40&duration=2000&pause=1000&color=F70707&background=FFF9F900&random=false&width=330&height=60&lines=Hello!+%F0%9F%91%8B;I'm+Mike!;" />
 </h1>
 
-<h3 align="center">A passionate self taught developer</h3>
+<h3 align="center">A self taught developer</h3>
 
 <br/>
 
 <div align="center">
  
- 🔭 I’m starting to work on **a social media cross platform personal project**
+ 🔭 I’m currently working on **API data collection with own DB for historical financial data**
  
- 🌱 I’m currently learning **C#, .NET, AWS**
+ 🌱 The vision is to  **create an alert bot for significant changes and auto-investments**
 
 💬 Contact and most recent project links:
 
